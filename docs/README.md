@@ -1,4 +1,4 @@
-![Viper Discord Bot](viper.png)
+<img src="viper.png" alt="Viper Discord Bot" width="300"/>
 
 ## Overview
 Viper is a Discord bot designed to reference answers from past conversations, streamlining user interactions and improving the overall chat experience.
