@@ -1,5 +1,3 @@
-# Viper
-
 ![Viper Discord Bot](viper.png)
 
 ## Overview
