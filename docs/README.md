@@ -13,4 +13,4 @@ Viper is a Discord bot designed to reference answers from past conversations, st
 ### [**Usage:**](usage.md) Instructions on how to use the bot effectively.
 ### [**Screenshots:**](screenshots.md) Visual demonstrations of the bot in action.
 ### [**About:**](about.md) Detailed information about the bot's features and architecture.
-### [**Contact:**](contact.md) Get in touch with the development team.
+### [**Copyright:**](copyright.md) Copyright information.
