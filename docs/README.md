@@ -1,21 +1,9 @@
-<h1 align="center">viπer</h1>
+# viπer
 
-<p align="center">
-    <img src="viper.png" alt="Viper Discord Bot" width="300"/>
-</p>
+<img src="viper.png" alt="Viper Discord Bot" width="300"/>
 
-<p align="center">
-    A Discord bot that references answers from past conversations.
-</p>
+A Discord bot that references answers from past conversations.
 
-<p align="center">
-    - <a href="installation.md">Installation</a>
-</p>
-
-<p align="center">
-    - <a href="usage.md">Usage</a>
-</p>
-
-<p align="center">
-    - <a href="about.md">About</a>
-</p>
+### [Installation](installation.md)
+### [Usage](usage.md)
+### [About](about.md)
