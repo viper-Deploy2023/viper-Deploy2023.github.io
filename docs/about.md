@@ -1,6 +1,6 @@
 # License
 
-tbd is licensed under [AGPL](https://www.gnu.org/licenses/agpl-3.0.en.html), as
+viper is licensed under [AGPL](https://www.gnu.org/licenses/agpl-3.0.en.html), as
 included in the [LICENSE](LICENSE) file.
 
 - Copyright (C) 2023 Viper Deploy2023 Team
