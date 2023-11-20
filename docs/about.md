@@ -2,6 +2,11 @@
 
 This document outlines the key components and features of our project, detailing the various technologies and methodologies we've employed.
 
+### Tech Stack
+- **Python 3:** The core programming language used.
+- **Discord API:** Integrates with Discord for bot functionalities.
+- **Yake:** Utilized for keyword extraction.
+
 ### Question Detection
 - **Token Parsing:** Utilizes regex to break down long messages into smaller tokens.
 - **Detection Logic:** Identifies if each token begins with keywords that signify a question.
