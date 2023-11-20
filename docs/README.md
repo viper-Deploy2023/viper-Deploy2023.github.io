@@ -9,8 +9,8 @@ Viper is a Discord bot designed to reference answers from past conversations, st
 - **Yake:** Utilized for keyword extraction.
 
 ## Navigation
-### [**Installation**](installation.md)
-### [**Usage**](usage.md)
-### [**Screenshots:**](screenshots.md)
-### [**About**](about.md)
-### [**Copyright**](copyright.md)
+### [Installation](installation.md)
+### [Usage](usage.md)
+### [Screenshots](screenshots.md)
+### [About](about.md)
+### [Copyright](copyright.md)
